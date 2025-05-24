@@ -6,32 +6,53 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Sharon Shen 申斯
+title: Business Analytics Professional
+email: tanglin150@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +65 91716002
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
+
+# ChatGPT建议修改的内容
+title: "Sharon Shen"
+email: "tanglin150@gmail.com"
+description: >-
+  Strategic Key Account & Analytics Leader | 6+ years in ad tech, analytics, and client partnerships
+baseurl: "" 
+url: "https://sharonshen.github.io"
+github_username: sharonshen
+
+theme: "modern-resume-theme"
+
+# 社交/联系方式展示
+personal_links:
+  - title: "Email"
+    url: "mailto:tanglin150@gmail.com"
+  - title: "GitHub"
+    url: "https://github.com/sharonshen"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/your-profile" # 修改为你真实的 LinkedIn 链接
+
 
 # Additional icon links
 additional_links:
